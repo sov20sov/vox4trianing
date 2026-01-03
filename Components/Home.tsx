@@ -66,7 +66,7 @@ const Home: React.FC = () => {
             <div className="hidden lg:block relative group">
               <div className="absolute -inset-4 bg-purple-200/20 dark:bg-purple-900/20 blur-3xl rounded-full" />
               <div className="w-full h-[650px] rounded-[5rem] overflow-hidden shadow-2xl border-8 border-white dark:border-slate-800 relative z-10">
-                <img src="../image/vox.jpg" alt="طلاب يتعلمون" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-[2000ms]" />
+                <img src="/public/image/vox.jpg" alt="طلاب يتعلمون" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-[2000ms]" />
               </div>
               <motion.div 
                 className="absolute -bottom-10 -right-10 bg-white dark:bg-slate-900 p-8 rounded-[2.5rem] shadow-2xl border border-gray-100 dark:border-slate-800 flex items-center gap-6 z-20"
